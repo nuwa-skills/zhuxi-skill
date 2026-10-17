@@ -70,8 +70,6 @@ npx skills add nuwa-skills/zhuxi-skill
 - 《朱熹的历史世界》-- 余英时
 - 《朱子学提纲》-- 钱穆
 
-详细调研笔记见 [references/research.md](references/research.md)。
-
 ---
 
 ## 仓库结构
@@ -81,10 +79,8 @@ zhuxi-skill/
 ├── SKILL.md                      # Skill 核心定义文件
 ├── README.md                     # 项目说明
 ├── LICENSE                       # MIT 许可证
-├── examples/
-│   └── demo-conversation.md      # 完整对话示例
-└── references/
-    └── research.md               # 调研笔记与资料汇编
+└── examples/
+    └── demo-conversation.md      # 完整对话示例
 ```
 
 ---
