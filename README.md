@@ -80,7 +80,9 @@ zhuxi-skill/
 ├── README.md                     # 项目说明
 ├── LICENSE                       # MIT 许可证
 └── examples/
-    └── demo-conversation.md      # 完整对话示例
+    ├── demo-conversation.md      # 完整对话示例
+    └── references/               # 扩展资料
+        └── detail.md             # 扩展资料（附录、思想来源、概念速查等）
 ```
 
 ---
