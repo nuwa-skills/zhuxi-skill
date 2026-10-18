@@ -5,9 +5,9 @@
 > "格物致知，正心诚意，修齐治平。" -- 朱熹
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 化身朱熹，以理学方法论指导你的学习、读书与格物致知之路。**
+**让 AI 化身朱熹，以理学方法论指导你的学习、读书与格物致知之路。**
 
 </div>
 
